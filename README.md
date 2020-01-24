@@ -4,6 +4,8 @@
 ### Alma González
 ### email: alma.gonzalez@fisica.ugto.mx
 
+### Alumno: José Domingo Cajina Ramírez
+
 ## TEMAS
 
 1.- Programación básica en pyhton, manejo de repositorio y visualización. 

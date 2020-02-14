@@ -9,4 +9,4 @@ pastel, el coste anual por área.
 
 De esta manera, ver que área tiene mas costo para el estado.
 
-3) Salario mínimo: 
+3) Salario mínimo: Ver el aumento del salario a lo largo del tiempo.

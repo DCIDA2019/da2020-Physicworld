@@ -10,3 +10,4 @@ pastel, el coste anual por área.
 De esta manera, ver que área tiene mas costo para el estado.
 
 3) Salario mínimo: Ver el aumento del salario a lo largo del tiempo.
+** Ver el poder adquisitivo tambien a lo largo del tiempo, para ver si es equivalente lo que se gana ahora.
